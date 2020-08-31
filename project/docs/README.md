@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /images.png
+heroImage: /images.jpg
 heroText: Do one thing at a time, and do well.
 tagline: Welcome to Tiehao's Blog
 actionText: Get Started →
